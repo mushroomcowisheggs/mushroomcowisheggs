@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Mushroomcowisheggs Taoist 👋
+
+<p>
+   Developer |  Open Source Enthusiast |  Game Designer
+</p>
 
 <!--
 **mushroomcowisheggs/mushroomcowisheggs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
